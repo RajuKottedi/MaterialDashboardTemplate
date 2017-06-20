@@ -1,0 +1,17 @@
+# Angular 2
+# =========================
+
+node_modules
+_MACOSX
+# AoT compilation files
+aot/
+package-lock.json
+
+# TypeScript compilation files
+**/app/**/*.js
+**/app/**/*.map
+**/app/*.js
+**/app/*.map
+**/app/*.js
+**/app/*.map
+

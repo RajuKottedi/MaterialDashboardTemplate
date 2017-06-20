@@ -1,0 +1,23 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+ "files.autoSaveDelay": 1500,
+ "files.autoSave": "afterDelay",
+ "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "node_modules": true,
+        "_MACOSX": true,
+        "README.md": true,
+        "dest/*.js.map": true,
+        ".vscode": false,
+         "**/app/*.map": true,
+        "**/app/**/*.map": true,
+        "**/app/**/*.js": true,
+        "**/app/*.js": true,
+        "**/app/**/**/*.js": true,
+        "**/wwwroot/": true,
+        "**/obj/": true,
+        "**/bin/": true,
+        "**.lock": true
+ }   
+}
